@@ -1,5 +1,3 @@
-style.css
-
 /* styles.css */
 
 /* Global Styles */
@@ -194,5 +192,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-<link rel="stylesheet" type="text/css" href="styles.css">
